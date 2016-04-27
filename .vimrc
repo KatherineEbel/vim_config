@@ -47,7 +47,6 @@ set background=dark
 set guifont=Menlo\ bold:h14
 set linespace=2
 set visualbell
-colorscheme desert 
 
 " spell checking
 set spell spelllang=en_us
